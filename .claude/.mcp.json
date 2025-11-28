@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "expense-policy": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "mcp-server/dist/index.js"
+      ],
+      "cwd": "<full path>/mcp-server"
+    }
+  }
+}

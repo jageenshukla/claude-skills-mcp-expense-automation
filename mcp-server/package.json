@@ -1,0 +1,32 @@
+{
+  "name": "expense-policy-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server providing expense policy tools for Claude",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js --http --port 3000",
+    "dev": "tsc && npm start"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "expense",
+    "policy",
+    "tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "typescript": "^5.3.3"
+  }
+}
