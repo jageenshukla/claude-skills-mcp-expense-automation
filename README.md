@@ -7,7 +7,7 @@
 
 This repository demonstrates how to build intelligent automation using **Claude Code CLI**, **Skills**, and **Model Context Protocol (MCP)**. Perfect for developers who want production-ready AI agents without building from scratch.
 
-📖 **[Read the full tutorial on Medium](https://medium.com/@yourusername/your-blog-post-url)** (replace with your actual URL)
+📖 **[Read the full tutorial on Medium](https://medium.com/@jageenshukla/build-production-ai-agents-with-claude-skills-mcp-882d70ffe9ee)**
 
 ---
 
@@ -50,7 +50,7 @@ This project demonstrates the **3-layer architecture** for production AI agents:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/claude-skills-mcp-expense-automation.git
+git clone https://github.com/jageenshukla/claude-skills-mcp-expense-automation.git
 cd claude-skills-mcp-expense-automation
 
 # 2. Install skill globally
@@ -335,8 +335,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Questions?
 
 - **Blog**: [Read the full tutorial](https://medium.com/@yourusername/your-blog-post-url)
-- **Issues**: [Open an issue](https://github.com/yourusername/claude-skills-mcp-expense-automation/issues)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Issues**: [Open an issue](https://github.com/jageenshukla/claude-skills-mcp-expense-automation/issues)
+- **X**: [@imjageen](https://x.com/imjageen)
 
 ---
 
