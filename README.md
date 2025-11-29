@@ -296,10 +296,10 @@ export async function submitExpense(input: ExpenseSubmission) {
 
 ## 📚 Learn More
 
-- 📖 **[Full Tutorial on Medium](https://medium.com/@yourusername/your-blog-post-url)** - Complete step-by-step guide
+- 📖 **[Full Tutorial on Medium](https://medium.com/@jageenshukla/build-production-ai-agents-with-claude-skills-mcp-882d70ffe9ee)** - Complete step-by-step guide
 - 📘 **[Claude Skills Documentation](https://code.claude.com/docs/en/skills.md)** - Official skills guide
 - 🔧 **[Model Context Protocol](https://modelcontextprotocol.io)** - MCP specification
-- 💻 **[MCP SDK](https://github.com/modelcontextprotocol/sdk)** - TypeScript/Python SDKs
+- 💻 **[MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk)** - TypeScript
 
 ---
 
