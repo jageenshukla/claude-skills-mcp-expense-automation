@@ -334,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Questions?
 
-- **Blog**: [Read the full tutorial](https://medium.com/@yourusername/your-blog-post-url)
+- **Blog**: [Read the full tutorial](https://medium.com/@jageenshukla/build-production-ai-agents-with-claude-skills-mcp-882d70ffe9ee)
 - **Issues**: [Open an issue](https://github.com/jageenshukla/claude-skills-mcp-expense-automation/issues)
 - **X**: [@imjageen](https://x.com/imjageen)
 
